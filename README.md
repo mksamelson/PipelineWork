@@ -1,4 +1,4 @@
-# Predict Abelone Age from Given Features
+# Predict Abalone Age from Given Features
 
 This study creates a regressor to predict abalone (fish) age given several features.
 
